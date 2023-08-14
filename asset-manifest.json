@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.607b23ed.css",
-    "main.js": "/static/js/main.8924cdfd.js",
-    "static/media/me-about.jpg": "/static/media/me-about.32d1ffec4a8ff8753452.jpg",
-    "static/media/mawuviwo_CV.pdf": "/static/media/mawuviwo_CV.9f9e3c0455b20640f845.pdf",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/me.png": "/static/media/me.897ff0ccb613517efbb9.png",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/index.html",
-    "main.607b23ed.css.map": "/static/css/main.607b23ed.css.map",
-    "main.8924cdfd.js.map": "/static/js/main.8924cdfd.js.map"
+    "main.css": "/yawa_brie.github.io/yawa_brie/static/css/main.607b23ed.css",
+    "main.js": "/yawa_brie.github.io/yawa_brie/static/js/main.adafe8e7.js",
+    "static/media/me-about.jpg": "/yawa_brie.github.io/yawa_brie/static/media/me-about.32d1ffec4a8ff8753452.jpg",
+    "static/media/mawuviwo_CV.pdf": "/yawa_brie.github.io/yawa_brie/static/media/mawuviwo_CV.9f9e3c0455b20640f845.pdf",
+    "static/media/portfolio5.png": "/yawa_brie.github.io/yawa_brie/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me.png": "/yawa_brie.github.io/yawa_brie/static/media/me.897ff0ccb613517efbb9.png",
+    "static/media/portfolio2.jpg": "/yawa_brie.github.io/yawa_brie/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/yawa_brie.github.io/yawa_brie/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/yawa_brie.github.io/yawa_brie/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/yawa_brie.github.io/yawa_brie/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/yawa_brie.github.io/yawa_brie/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/yawa_brie.github.io/yawa_brie/index.html",
+    "main.607b23ed.css.map": "/yawa_brie.github.io/yawa_brie/static/css/main.607b23ed.css.map",
+    "main.adafe8e7.js.map": "/yawa_brie.github.io/yawa_brie/static/js/main.adafe8e7.js.map"
   },
   "entrypoints": [
     "static/css/main.607b23ed.css",
-    "static/js/main.8924cdfd.js"
+    "static/js/main.adafe8e7.js"
   ]
 }
