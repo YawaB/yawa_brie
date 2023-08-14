@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yawa_brie/static/css/main.607b23ed.css",
+    "main.css": "/yawa_brie/static/css/main.222374f9.css",
     "main.js": "/yawa_brie/static/js/main.86a5f5a5.js",
     "static/media/me-about.jpg": "/yawa_brie/static/media/me-about.32d1ffec4a8ff8753452.jpg",
     "static/media/mawuviwo_CV.pdf": "/yawa_brie/static/media/mawuviwo_CV.9f9e3c0455b20640f845.pdf",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/yawa_brie/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/yawa_brie/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/yawa_brie/index.html",
-    "main.607b23ed.css.map": "/yawa_brie/static/css/main.607b23ed.css.map",
+    "main.222374f9.css.map": "/yawa_brie/static/css/main.222374f9.css.map",
     "main.86a5f5a5.js.map": "/yawa_brie/static/js/main.86a5f5a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.607b23ed.css",
+    "static/css/main.222374f9.css",
     "static/js/main.86a5f5a5.js"
   ]
 }
