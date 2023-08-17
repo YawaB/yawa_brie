@@ -58,6 +58,9 @@ header{
     bottom: 5rem;
     transform: rotate(90deg);
 }
+.scroll__down-mobile{
+    display: none;
+}
 /* ======================MEDIA QUERIES(MEDIUM DEVICES)======================== */
 
 @media screen and (max-width: 1024px) {
@@ -73,8 +76,35 @@ header{
     header{
         height: 100vh;
     }
-    .header__socials, 
+ 
     .scroll__down{
         display: none;
     }
+
+    .scroll__down-mobile{
+
+        display: block;
+        position: absolute;
+        right: -1.8rem;
+        bottom: 5rem;
+        color: var(--primary-color);
+
+        /* left: 50%; */
+        transform: translateX(-50%);
+        font-size: 1.5rem;
+        cursor: pointer;
+        animation: scrollDown 1.5s ease-in-out infinite;
+
+    }
+
+    .me{
+        width: 18rem;
+        height: 25rem;
+        left: calc(50% - 9rem);
+        margin-top: 4rem;
+        
+      
+        position: absolute;
+      
+      }
 }
